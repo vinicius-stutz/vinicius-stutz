@@ -11,6 +11,7 @@ My name is Vinícius Stutz
 ### Stats
 <img title="My GitHub Stats" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=vinicius-stutz&hide=issues&count_private=true&text_color=adbac7&icon_color=9b74c7&title_color=9b74c7&bg_color=22272e&show_icons=true&custom_title=My+GitHub+Stats"
 />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-stutz&hide_border=false&hide=typescript&layout=compact&bg_color=22272e&title_color=9b74c7&text_color=adbac7" alt="My Language Stats" />
 
 ### Languages and Tools
