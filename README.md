@@ -6,7 +6,7 @@
 
 ## About me
 My name is Vinícius Stutz
-<a href="https://dev.to/stutz" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusstutz/)](https://www.linkedin.com/in/viniciusstutz/) <a href="https://open.spotify.com/user/vinicius.stutz?si=Acm8YFhJQg25DULI0GR-1A" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a> [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vinicius_stutz)](https://twitter.com/vinicius_stutz) [<img src="https://img.shields.io/github/followers/vinicius-stutz?label=follow&style=social" height="22" title="Siga-me!" />](https://github.com/vinicius-stutz) 
+<a href="https://dev.to/stutz" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusstutz/)](https://www.linkedin.com/in/viniciusstutz/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/vinicius_stutz)](https://twitter.com/vinicius_stutz) [<img src="https://img.shields.io/github/followers/vinicius-stutz?label=follow&style=social" height="22" title="Siga-me!" />](https://github.com/vinicius-stutz)
 
 ### Stats
 <img title="My GitHub Stats" heigth="300" width="400" src="https://github-readme-stats.vercel.app/api?username=vinicius-stutz&hide=issues&count_private=true&text_color=adbac7&icon_color=9b74c7&title_color=9b74c7&bg_color=22272e&show_icons=true&custom_title=My+GitHub+Stats"
@@ -20,15 +20,9 @@ My name is Vinícius Stutz
 
 
 ---
-- 🌱 I’m still improving techniques with MongoDB, RabbitMQ, AWS and React
+- 🌱 I'm still improving techniques with MongoDB, RabbitMQ, AWS and React
 - 💬 Ask me about C#, .Net and Rest APIs
-- 📫 How to reach me: [vinicius-stutz.com](https://www.vinicius-stutz.com/)
-- ✍🏻 Where I try to write: [blog.vinicius-stutz.com](https://blog.vinicius-stutz.com/)
+- 📫 How to reach me: [vinici.us.com](https://www.vinici.us.com/)
+- ✍🏻 Where I try to write: [medium.com/vinicius-stutz](https://medium.com/vinicius-stutz)
 - 😄 Pronouns: fi-ny-xii-ous
 - ⚡ Fun fact: I'm alive!
-
-  <p align="center">
-    <a href="http://hits.dwyl.com/vinicius-stutz/vinicius-stutz">
-      <img align="center" src="https://hits.dwyl.com/vinicius-stutz/vinicius-stutz.svg">
-    </a>
-  </p>
