@@ -7,7 +7,7 @@
 ## About me
 - 🌱 I'm still improving techniques with MongoDB, RabbitMQ, AWS and React
 - 💬 Ask me about C#, .Net and Rest APIs
-- 📫 How to reach me: [vinici.us.com](https://www.vinici.us.com/)
+- 📫 How to reach me: [vinici.us.com](http://www.vinici.us.com/)
 - ✍🏻 Where I try to write: [medium.com/vinicius-stutz](https://medium.com/vinicius-stutz)
 - 😄 Pronouns: fi-ny-xii-ous
 - ⚡ Fun fact: I'm alive!
