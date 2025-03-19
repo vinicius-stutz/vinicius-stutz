@@ -6,11 +6,9 @@
 
 ## About me
 - 🌱 I'm still improving techniques with MongoDB, RabbitMQ, AWS and React
-- 💬 Ask me about C#, .Net and Rest APIs
+- 💬 Ask me about C#, Rest APIs and Worker Services
 - 📫 How to reach me: [vinici.us.com](http://www.vinici.us.com/)
 - ✍🏻 Where I try to write: [medium.com/vinicius-stutz](https://medium.com/vinicius-stutz)
-- 😄 Pronouns: fi-ny-xii-ous
-- ⚡ Fun fact: I'm alive!
 
 [<img src="https://img.shields.io/github/followers/vinicius-stutz?label=follow&style=social" height="20" title="Siga-me!" />](https://github.com/vinicius-stutz)
 <img src="https://komarev.com/ghpvc/?username=vinicius-stutz&label=Profile%20views&color=0e75b6&style=flat" alt="vinicius-stutz" />
