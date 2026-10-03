@@ -5,10 +5,11 @@
 -->
 
 ## About me
-- 🌱 I'm still improving techniques with MongoDB, RabbitMQ, AWS and React
+- 🌱 I currently lead a team, but I stay hands-on with MongoDB, RabbitMQ, AWS, and React.
 - 💬 Ask me about C#, Rest APIs and Worker Services
 - 📫 How to reach me: [vinici.us.com](http://www.vinici.us.com/)
-- ✍🏻 Where I try to write: [medium.com/vinicius-stutz](https://medium.com/vinicius-stutz)
+- ✍🏻 Where I try to write: [medium.com/vinicius-stutz](https://medium.com/vinicius-stutz) or [dev.to/stutz](https://dev.to/stutz)
+- 📄 Code snippets: [Gists](https://gist.github.com/vinicius-stutz) and [CodePen](https://codepen.io/vinicius-stutz)
 
 <div>
   <a href="https://github.com/vinicius-stutz" target="_blank"><img src="https://img.shields.io/github/followers/vinicius-stutz?label=follow&style=social" height="20" title="Siga-me!" alt="Siga-me!" /></a>
